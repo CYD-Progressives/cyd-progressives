@@ -76,6 +76,15 @@ body, h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
 }
 
+.content {
+  font-weight: normal;
+  font-size: 20px;
+  font-family: 'Lora', 'Times New Roman', serif;
+  line-height: 1.5;
+  padding: 50px 0;
+  margin: 30px 0;
+}
+
 .content-section-a {
   padding: 50px 0;
   background-color: #f8f8f8;
@@ -140,6 +149,10 @@ body, h1, h2, h3, h4, h5, h6 {
   ul.banner-social-buttons>li:last-child {
     margin-bottom: 0;
   }
+}
+
+.action-button {
+  margin: 1.5em 0;
 }
 
 footer {
